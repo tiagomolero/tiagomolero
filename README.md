@@ -1,4 +1,12 @@
 
+## 🛠️ Tecnologias e Ferramentas
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,linux,python,docker,git,github,mysql,postgres,aws,azure,vscode,idea,grafana" />
+  </a>
+</p>
+
 ## Repositórios
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=apirest-produtos)](https://github.com/tiagomolero/apirest-produtos)
@@ -10,16 +18,6 @@
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagomolero&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagomolero&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-
-
-
-## 🛠️ Tecnologias e Ferramentas
-
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,linux,python,docker,git,github,mysql,postgres,aws,azure,vscode,idea,grafana" />
-  </a>
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tiagomolero&show_icons=true" alt="tiagomolero" />	
