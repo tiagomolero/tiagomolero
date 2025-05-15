@@ -5,7 +5,7 @@
  | ----------- | ----------- |
 
 
-<h1 align="center">Olá! Eu sou o Molero 👋</h1>
+<h1 align="center">Olá! Eu sou o Tiago Molero 👋</h1>
 
 <p align="center">
   Desenvolvedor Back-End Java em transição de carreira com base sólida em infraestrutura, suporte técnico e automação. Apaixonado por tecnologia, performance e soluções escaláveis.
@@ -38,7 +38,7 @@
 
 - LinkedIn: [linkedin.com/in/tiagomolero](https://linkedin.com/in/tiagomolero)
 - Email: tiagomolero@gmail.com
-- Whatsapp: +55 (11) 96085-2554
+- Whatsapp: [+55 (11) 96085-2554](https://wa.me/5511960852554)
 
 ---
 
