@@ -1,6 +1,11 @@
-## 📊 Meu gráfico de contribuição em 3D
 
 ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,linux,python,docker,git,github,mysql,postgres,aws,azure,vscode,intellij,idea,grafana" />
+  </a>
+</p>
 
 <!--
 **tiagomolero/tiagomolero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
