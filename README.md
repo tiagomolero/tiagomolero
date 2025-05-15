@@ -3,7 +3,22 @@
  | ----------- | ----------- |
 
 <!-- ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg) -->
-  
+
+## 🛠️ Tecnologias e Ferramentas
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,linux,python,docker,git,github,mysql,postgres,aws,azure,vscode,idea,grafana" />
+  </a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tiagomolero&show_icons=true" alt="tiagomolero" />	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomolero&layout=compact&hide=html" alt="tiagomolero" />
+</p>
+
+---
+
 <h1 align="center">Olá! Eu sou o Tiago Molero 👋</h1>
 
 <p align="center">
@@ -20,21 +35,6 @@
 - 🌱 Atualmente, estudo e pratico Java, Spring Boot, arquitetura limpa, testes automatizados, SOLID, Clean Code, microserviços e boas práticas de desenvolvimento.
 - 🧠 Estou sempre aprendendo algo novo e focado em evoluir tecnicamente.
 - 🤝 Busco contribuir com projetos que gerem valor real e tenham qualidade como prioridade.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,linux,python,docker,git,github,mysql,postgres,aws,azure,vscode,idea,grafana" />
-  </a>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tiagomolero&show_icons=true" alt="tiagomolero" />	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomolero&layout=compact&hide=html" alt="tiagomolero" />
-</p>
 
 ---
 
