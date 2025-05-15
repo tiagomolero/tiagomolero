@@ -19,11 +19,6 @@
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagomolero&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagomolero&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tiagomolero&show_icons=true" alt="tiagomolero" />	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomolero&layout=compact&hide=html" alt="tiagomolero" />
-</p>
-
 ---
 
 <h1 align="center">Olá! Eu sou o Tiago Molero 👋</h1>
