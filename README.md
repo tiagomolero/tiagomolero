@@ -1,12 +1,4 @@
 
-## 🛠️ Tecnologias e Ferramentas
-
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,linux,python,docker,git,github,mysql,postgres,aws,azure,vscode,idea,grafana" />
-  </a>
-</p>
-
 ## 📍​ Repositórios
 <div align="center"> 
 
@@ -23,6 +15,14 @@
  | ----------- | ----------- |
 
 ---
+
+## 🛠️ Tecnologias e Ferramentas
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,linux,python,docker,git,github,mysql,postgres,aws,azure,vscode,idea,grafana" />
+  </a>
+</p>
 
 <h1 align="center">Olá! Eu sou o Tiago Molero 👋</h1>
 
