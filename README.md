@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Comecei no desenvolvimento criando um sistema Java com RFID no SENAI.
+- 💻 Comecei no desenvolvimento criando um sistema de gerenciamento de estoque para uma empresa real em Java com RFID.
 - 🔧 Atuei por 5 anos com suporte técnico e infraestrutura, lidando com servidores, redes, automações em Python e segurança.
 - ☁️ Experiência com Linux, AWS EC2, Docker, Active Directory, GLPI, Grafana, servidores e bancos de dados.
 - 🌱 Atualmente, estudo e pratico Java, Spring Boot, arquitetura limpa, testes automatizados, SOLID, Clean Code, microserviços e boas práticas de desenvolvimento.
