@@ -1,6 +1,4 @@
-## Olá, eu sou o Tiago 👋
-
-## 📊 Meus gráficos de contribuição em 3D
+## 📊 Meu gráfico de contribuição em 3D
 
 ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
