@@ -9,8 +9,10 @@
 
 ## 📍​ Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=apirest-produtos)](https://github.com/tiagomolero/apirest-produtos)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=apirest-produtos&cache_seconds=60)](https://github.com/tiagomolero/apirest-produtos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=html-api-tempo&cache_seconds=60)](https://github.com/tiagomolero/html-api-tempo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=tarefas-ebac-Tiago-Molero&cache_seconds=60)](https://github.com/tiagomolero/tarefas-ebac-Tiago-Molero)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=spring-ai-angular&cache_seconds=60)](https://github.com/tiagomolero/spring-ai-angular)
 
 ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
