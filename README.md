@@ -42,7 +42,7 @@
 
 ---
 
-## ⚡ Fun fact
+## ⚡ Diferencial
 
 Já estive do outro lado da mesa — resolvendo incidentes, monitorando ambientes e garantindo estabilidade. Hoje, trago essa visão para desenvolver software com mais responsabilidade, segurança e performance.  
 Se você procura alguém com atitude, conhecimento técnico e vontade de fazer acontecer, **estou pronto para o desafio**.
