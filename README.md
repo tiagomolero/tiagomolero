@@ -1,12 +1,11 @@
 
 ## Destaques
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=apirest-produtos)](https://github.com/tiagomolero/apirest-produtos) | 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=html-api-tempo)](https://github.com/tiagomolero/html-api-tempo) | 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=tarefas-ebac-Tiago-Molero)](https://github.com/tiagomolero/tarefas-ebac-Tiago-Molero) |
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=spring-ai-angular)](https://github.com/tiagomolero/spring-ai-angular) |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=apirest-produtos)](https://github.com/tiagomolero/apirest-produtos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=html-api-tempo)](https://github.com/tiagomolero/html-api-tempo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=tarefas-ebac-Tiago-Molero)](https://github.com/tiagomolero/tarefas-ebac-Tiago-Molero)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomolero&repo=spring-ai-angular)](https://github.com/tiagomolero/spring-ai-angular)
 
- | ----------- | ----------- |
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagomolero&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagomolero&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
