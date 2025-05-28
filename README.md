@@ -9,11 +9,12 @@
 
 </div>
 
+<!-- 
 ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagomolero&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagomolero&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-
+--> 
 ---
 
 <h1 align="center">Olá! Eu sou o Tiago Molero 👋</h1>
@@ -30,7 +31,7 @@
 </p>
 
 ---
-
+<!-- 
 ## 🚀 Sobre mim
 
 - 💻 Comecei no desenvolvimento criando um sistema de gerenciamento de estoque para uma empresa real em Java com RFID.
@@ -54,3 +55,4 @@
 
 Já estive do outro lado da mesa resolvendo incidentes, monitorando ambientes e garantindo estabilidade. Hoje, trago essa visão para desenvolver software com mais responsabilidade segurança e performance.  
 Se você procura alguém com atitude, conhecimento técnico e vontade de fazer acontecer, **estou pronto para o desafio**.
+ -->
